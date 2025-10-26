@@ -1,0 +1,10 @@
+﻿# Compiled
+*.class
+
+# JVM crash logs
+hs_err_pid*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
